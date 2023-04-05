@@ -1,60 +1,69 @@
-const logotext = "JOHN";
+const logotext = "MAYURTHING";
 const meta = {
-    title: "John Doe",
+    title: "Mayur Pati",
     description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Mayur Pati",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I love animation",
+        second: "I do cool visual composing",
+        third: "I'm visual artist",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I am a professional visual artist with a solid background in digital animation and multimedia.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "This allows me to confidently tackle any project from concept art, 3D modelling and design, lighting setup, compositing and rendering of all types of TV series, movies, games &commercials. I have a solid experience in the creative field for more than 19 years as an artist, team leader, show supervisor, department director and head of the department. I have worked on multiple projects in Technicolor Creative studios, BIG Animation, and Digital Juice Animations with the best benchmark quality per international standards. Adapt to working independently and collaboratively on projects.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Head of the Department ",
+        where: "Mikros Animation",
+        date: "Nov 2008 - Present",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Senior Compositor",
+        where: "Reliance BIG Animation",
+        date: "May 2006 – Oct 2008",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Associate Creative",
+        where: "Digital Juice Animations",
+        date: "Apr 2004 – Apr 2006",
+    },
+    {
+        jobtitle: "Visual Artist",
+        where: "Ram Digi Media",
+        date: "Feb 2003 – Mar 2004",
     },
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Maya",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "V-Ray Render Engine",
         value: 85,
     },
     {
-        name: "Javascript",
+        name: "Adobe After Effects",
         value: 80,
     },
     {
-        name: "React",
-        value: 60,
+        name: "Fusion",
+        value: 80,
     },
     {
-        name: "Jquery",
+        name: "Nuke Compositing",
         value: 85,
+    },
+    {
+        name: "Unreal Engine and Blender",
+        value: 65,
     },
 ];
 
@@ -139,7 +148,7 @@ const contactConfig = {
     YOUR_EMAIL: "name@domain.com",
     YOUR_FONE: "(555)123-4567",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    // creat an emailjs.com account 
+    // creat an emailjs.com account
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
